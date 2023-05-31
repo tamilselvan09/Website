@@ -1,4 +1,4 @@
-
+{/*
 export const exerciseOptions = {
   method: 'GET',
   headers: {
@@ -20,4 +20,4 @@ export const fetchData = async (url, options) => {
   const data = await res.json();
 
   return data;
-};
+}; */ }
