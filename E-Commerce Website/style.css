@@ -135,7 +135,7 @@ html {
     background-color: orangered;
   }
   .sliderItem:nth-child(3) .sliderBg {
-    background-color: rebeccapurple;
+    background-color: limegreen;
   }
   .sliderItem:nth-child(4) .sliderBg {
     background-color: pink;
@@ -151,7 +151,7 @@ html {
     color: orangered;
   }
   .sliderItem:nth-child(3) .sliderPrice {
-    color: rebeccapurple;
+    color: limegreen;
   }
   .sliderItem:nth-child(4) .sliderPrice {
     color: pink;
